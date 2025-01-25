@@ -37,6 +37,7 @@ import SpkWormsAlzeyRiedMalade51wor from './banks/spk_worms_alzey_ried_malade51w
 import SskDusseldorfDussdeddxxx from './banks/ssk_dusseldorf_dussdeddxxx.js';
 import SwedbankHabalv22 from './banks/swedbank_habalv22.js';
 import VirginNrnbgb22 from './banks/virgin_nrnbgb22.js';
+import CetelemBlack from './banks/cetelem_black.js';
 
 export const banks = [
   AbancaCaglesmm,
@@ -49,6 +50,7 @@ export const banks = [
   BerlinerSparkasseBeladebexxx,
   BnpBeGebabebb,
   CbcCregbebb,
+  CetelemBlack,
   CommerzbankCobadeff,
   DanskebankDabno22,
   DirektHeladef1822,
