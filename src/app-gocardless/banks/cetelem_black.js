@@ -7,7 +7,7 @@ export default {
   ...Fallback,
 
   institutionIds: [
-    'CETELEM_BLACK',
+    'CETELEM_CETMPTP1XXX',
   ],
 
   /**
